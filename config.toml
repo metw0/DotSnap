@@ -1,0 +1,8 @@
+[dotfiles]
+# What we back up: “Name” = “Path to file or folder”
+bash = '~/.bashrc'
+zsh = '~/.zshrc'
+
+[settings]
+# Where do we back up (specify only the path)
+backup_dir = '~/dotsnap/backups'
