@@ -4,7 +4,7 @@ I stuck to KISS, so anyone can figure it out.
 
 ---
 
-### ⚙️ How to install?
+### ⚙️ How to install ?
 1. After cloning the repository, go to its folder:
    `cd <path_to_folder>`
    *(replace with your actual directory path)*
@@ -12,7 +12,7 @@ I stuck to KISS, so anyone can figure it out.
 2. Run the setup script (it will create a ready-made .venv):
    `chmod +x install.sh && ./install.sh`  
    
-The program is now ready to use!
+The program is now ready to use !
 
 ---
 
