@@ -1,4 +1,4 @@
-# DotSnap 📷
+# DotSnap-CLI
 A minimalistic utility for managing configuration backups (or dotfiles) written in Python. 
 I stuck to KISS, so anyone can figure it out.
 
